@@ -21,6 +21,10 @@ Sou Desenvolvedor e Designer apaixonado por tecnologia e inovação.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRita&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## Gráfico de Projetos Subidos a cada 3 meses:
+
+![Projetos Subidos](https://chart.googleapis.com/chart?cht=bvg&chd=t:5,8,12,10&chs=580x200&chxt=x,y&chl=3%20meses%20atr%C3%A1s%20|%206%20meses%20atr%C3%A1s%20|%209%20meses%20atr%C3%A1s%20|%2012%20meses%20atr%C3%A1s&chco=73B4FF,000000&chbh=20,10,5&chf=bg,s,00000000)
+
 ## Entre em contato comigo:
 
 <div> 
