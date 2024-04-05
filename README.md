@@ -20,13 +20,7 @@ Sou Desenvolvedor e Designer apaixonado por tecnologia e inovação.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomasRita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRita&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-## Gráfico de Projetos Subidos a cada 3 meses:
-
-![Projetos Subidos](https://chart.googleapis.com/chart?cht=bvg&chd=t:5,8,12,10&chs=580x200&chxt=x,y&chl=3%20meses%20atr%C3%A1s%20|%206%20meses%20atr%C3%A1s%20|%209%20meses%20atr%C3%A1s%20|%2012%20meses%20atr%C3%A1s&chco=73B4FF,000000&chbh=20,10,5&chf=bg,s,00000000)
-
 ## Entre em contato comigo:
-
 <div> 
   <a href="https://www.youtube.com/channel/UCRp1gHRf6k76ltu5A-iP4hA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tomasdrita/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
