@@ -21,11 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasRita&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=1dafdb&text_color=ffffff"/>
 </div>
 
-### 🏆 Destaques do GitHub:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TomasRita&theme=darkhub&margin-w=15&margin-h=15&title_color=1dafdb"/>
-</div>
-
 ---
 
 ## 🐍 Contribuições:
@@ -34,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
 
----
 
 ## 🚀 Entre em contato comigo:
 
